@@ -1,0 +1,1 @@
+export const pg3 = `<h1>PAGINA 3</h1>`
